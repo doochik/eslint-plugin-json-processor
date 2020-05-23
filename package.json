@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/doochik/eslint-plugin-json-processor#readme",
   "peerDependencies": {
-    "eslint": "^6.0.0 || ^5.0.0"
+    "eslint": "^7.0.0 || ^6.0.0 || ^5.0.0"
   }
 }
