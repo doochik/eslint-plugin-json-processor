@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-json-processor",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Simple plugin to lint JSON with ESLint rules",
   "main": "index.js",
   "scripts": {
